@@ -1,4 +1,4 @@
-/* Variables */
+/* Variables con la denominacion 'VAR' */
 
 /* Esta forma de denominacionde variables -- ya no se utiliza */
 var producto = 'Auriculares Gamer'; /* Inicialización de la variable con asignación de valor */
