@@ -6,8 +6,6 @@ const producto = 'Auriculares Gamer'; /* Inicialización de la variable con asig
 /* const disponible; */  /* JavaScript bajo la denominación/asignación de variables mediante el método de "const" no permite asignarle el valor en un momento futuro */
 let disponible;
 
-producto = true; /* Reasinación del valor de la variable */
-
 disponible = true; /* Asignación del valor a la variable definida */
 
 const producto1 = 'Ordenador',
@@ -16,7 +14,7 @@ const producto1 = 'Ordenador',
 
 /* Las asignación de variables no puede comenzar por caracteres numéricos -- ejemplo:   const 1disponible;*/
 
-/* Sin embargo, tu a las variables las puedes caracterizar o asinarles el par de nombre + valor de la siguiente manera - const disponible_; */
+/* Sin embargo, tu a las variables las puedes caracterizar o asinarles el par de nombre + valor de la siguiente manera - const disponible_ = true; */
 
 /* Estilos para las Variables */
 const nombre_producto = 'Monitor HD'  /* Variable con la denominación del tipo "underscore" */
